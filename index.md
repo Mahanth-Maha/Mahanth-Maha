@@ -1,37 +1,88 @@
-## Welcome to GitHub Pages
+# Yalla Mahanth
+A C0mpu1er Science Major [@JNUTA](https://www.jntuacea.ac.in/) 
 
-You can use the [editor on GitHub](https://github.com/Mahanth-Maha/Mahanth-Maha/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ananthapur , India .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About me
+Hard working and driven to work quickly and effectively on projects in all types of environments. Driven student leveraging studies in Artificial Intelligence seeks real-world experience as Artificial Intelligence Engineer. Friendly student available for weekend, evening and holiday shifts. Considered hard working, punctual and driven. 
 
-### Markdown
+## Technical Skills 
+### Damn good at
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Level : GOD Level_
 
-```markdown
-Syntax highlighted code block
+> C Programming
 
-# Header 1
-## Header 2
-### Header 3
+> Bash Scripting
 
-- Bulleted
-- List
+> Data Interpretation 
 
-1. Numbered
-2. List
+### Can Solve any problem in 
 
-**Bold** and _Italic_ and `Code` text
+_Level : Best_
 
-[Link](url) and ![Image](src)
-```
+> Python Programming
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+> C Programming
 
-### Jekyll Themes
+### Can Understand 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mahanth-Maha/Mahanth-Maha/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_Level : Good enough_
 
-### Support or Contact
+> Java Programming
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> C++ Programming
+
+> Java Script (Html5 , css3 , js)
+
+> C# Programming
+
+> 
+
+## Non Techinical Skills 
+
+one can expect 
+
+> Problem Solving
+
+> Statergy
+
+> Analytical Skills
+
+> Presentations
+
+## Softwares 
+
+I can Handle
+
+> Blender
+
+> Gimp
+
+> OpenShot
+
+> Micrtsoft Office
+
+## In Free Time
+
+> random thinking
+
+> Bug hunting
+
+> exploring facts
+
+> Movies
+
+## Portfolio
+
+> Password Manager App [Latest Release](https://github.com/Mahanth-Maha/PswdMngrAL/releases/tag/v1.2)
+
+> Renders in blender [blender Page of Mine]()
+
+## Pages and Contact
+
+[Linked In](linked.in/Mahanth-Maha)
+
+[Github](github.com/Mahanth-Maha)
+
+### [Mail Me](mailto:yallamahanth2002@gmail.com)
