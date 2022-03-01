@@ -6,6 +6,8 @@ Ananthapur , India .
 ## About me
 Hard working and driven to work quickly and effectively on projects in all types of environments. Driven student leveraging studies in Artificial Intelligence seeks real-world experience as Artificial Intelligence Engineer. Friendly student available for weekend, evening and holiday shifts. Considered hard working, punctual and driven. 
 
+![hi](Blender_Renders/pencil.png)
+
 ## Technical Skills 
 ### Damn good at
 
