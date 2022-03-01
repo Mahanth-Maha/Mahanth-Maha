@@ -1,4 +1,0 @@
-# Blender Stuff
-## Random Renders
-
-
