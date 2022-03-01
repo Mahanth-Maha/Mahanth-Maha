@@ -77,12 +77,12 @@ I can Handle
 
 > Password Manager App [Latest Release](https://github.com/Mahanth-Maha/PswdMngrAL/releases/tag/v1.2)
 
-> Renders in blender [blender Page of Mine](/Blender_Renders/Blender_Render.md)
+> Renders in blender [blender Page of Mine](Mahanth-Maha/Blender_Renders/Blender_Render.md)
 
 ## Pages and Contact
 
-[Linked In](linked.in/Mahanth-Maha)
+[Linked In](https://linked.in/Mahanth-Maha)
 
-[Github](github.com/Mahanth-Maha)
+[Github](https://github.com/Mahanth-Maha)
 
 ### [Mail Me](mailto:yallamahanth2002@gmail.com)
