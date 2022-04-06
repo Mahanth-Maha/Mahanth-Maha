@@ -63,6 +63,10 @@ I can Handle
 
 > Micrtsoft Office
 
+## Hackathons
+
+> [Dare2Compete 30Days Festival](https://dare2compete.com/competitions/online-hackathon-festival-ohf-season-3-263190/leaderboard?d=eyJwYWdlIjoxLCJ0ZWFtSWQiOjgwMjQ2NDIsImFzc29jaWF0aW9uSWQiOjI2MzE5MH0=) : Overall Rank __**32**__ [Directory of Certificates](https://github.com/Mahanth-Maha/Mahanth-Maha/tree/gh-pages/Hackathons)
+
 ## In Free Time
 
 > random thinking
