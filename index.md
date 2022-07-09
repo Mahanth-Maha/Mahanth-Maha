@@ -1,7 +1,7 @@
 # Yalla Mahanth
 A C0mpu1er Science Major [@JNUTA](https://www.jntuacea.ac.in/) 
 
-[Github Link](https://github.com/Mahanth-Maha)
+[Check My Github](https://github.com/Mahanth-Maha)
 
 Ananthapur , India .
 
@@ -14,7 +14,7 @@ Joined in __IIITH summer internship on indicwiki project__ to improve Telugu Wik
 
 ## Experience
 
-__Summer InternSummer Intern__
+__Summer Intern__
 
 IIIT Hyderabad · Internship
 
@@ -25,12 +25,13 @@ Hyderabad, Telangana, India
 _Computer science tech Internship in IndicWiki Project at IIITH_
 
 > Working on real world data gave stronger insights in Scraping, Data Analyzing, Data Visualizing and some Natural Language Processing Techniques. Worked on birds domain to produce at least 10000 articles for __Telugu Wikipedia__, ended up with 12500 quality articles on birds in Telugu, Got a stipend of Rupees 10,000. Acclimated to scrum methodology, managed to complete the work before deadline and worked on other domains too.
-_Skills_ : Python (Programming Language) · Natural Language Processing (NLP) · Data Analysis · Data Collection · Data Scraping · Data Analytics · Data Visualization · Analytical Skills
+
+>_Skills_ : Python (Programming Language) · Natural Language Processing (NLP) · Data Analysis · Data Collection · Data Scraping · Data Analytics · Data Visualization · Analytical Skills
 
 ## Technical Skills 
 ### Damn good at
 
-_Level : GOD Level_
+_(Level : Most Familiar)_
 
   - C Programming
 
@@ -45,7 +46,7 @@ _Level : GOD Level_
 
 ### Can Understand 
 
-_Level : Good enough_
+_(Level : Good enough)_
 
 - C++ Programming
 
@@ -82,10 +83,13 @@ I can Handle
 ## Awards and Scores
 
 #### Unstop Online Hackathon Festival Season 3
+
 [Dare2Compete 30Days Festival](https://dare2compete.com/competitions/online-hackathon-festival-ohf-season-3-263190/leaderboard?d=eyJwYWdlIjoxLCJ0ZWFtSWQiOjgwMjQ2NDIsImFzc29jaWF0aW9uSWQiOjI2MzE5MH0=) : Overall Rank __32__ [Directory of Certificates](https://github.com/Mahanth-Maha/Mahanth-Maha/tree/gh-pages/Hackathons)
 
 #### GATE 2022
+
 AIR - 1956
+
 Percentile - 97.46
 
 ## In Free Time
@@ -100,9 +104,17 @@ Percentile - 97.46
 
 ## Portfolio
 
-> Password Manager App [Latest Release](https://github.com/Mahanth-Maha/PswdMngrAL/releases/tag/v1.2)
+- Password Manager App [Latest Release](https://github.com/Mahanth-Maha/PswdMngrAL/releases/tag/v1.2)
 
-> Renders in blender [blender Page of Mine](Blender.md)
+> A Automated Software which stores mail/User id and Password with encryption and manages to auto login into the website by fetching respective password. I used standard encryption algorithms such as RSA,SHA-256 and AES and stored passwords in Database with SQLite using SQL as Cipher text which makes it more secure. I used some salt to protect it even further, Simple security but quite unbreakable.
+
+> Encryption : RSA & SHA-256 – Master Password , AES – individual site passwords
+
+- [Birds - For te.Wikipedia](https://github.com/Mahanth-Maha/indicwiki_birds) - Indic WIki Internship Project
+
+- [PadmaAwards - For te.Wikipedia](https://github.com/Mahanth-Maha/padmaAwards) - Indic WIki Internship Project
+
+- [blender Page of Mine](Blender.md) - Renders in blender 
 
 ## Pages and Contact
 
