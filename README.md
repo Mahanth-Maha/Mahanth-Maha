@@ -1,21 +1,18 @@
 <h1 align="center">Hello, I am Yalla Mahanth</h1>
-<h3 align="center">I’m interested in developing Artificial Intelligence Systems, Internet Of Things and Cyber Security</h3>
+<h2 align="center">B.Tech CSE, (M.Tech - AI @IISc)</h2>
+<h3 align="center">ALL INDIA RANKED: 24 in GATE CS 2024, 186 in GATE CS 2023, 724 in GATE DA 2024</h3>
+<h4 align="center"> <b>Jack of all, master of None; </b> Hence, I am Mastering AI from the Indian Institute of Science, Bangalore. </h4>
 
 ![py](https://img.shields.io/badge/Python-%E2%98%85%20%E2%98%85%20%E2%98%85%20%E2%98%85%20%E2%98%85-green)
-![py](https://img.shields.io/badge/C-%E2%98%85%20%E2%98%85%20%E2%98%85%20%E2%98%85%20%E2%98%85-green)
-![c++](https://img.shields.io/badge/C%2B%2B-%E2%98%85%20%E2%98%85%20%E2%98%85%20%E2%98%85%20%E2%98%86-yellowgreen)
+![c](https://img.shields.io/badge/C-%E2%98%85%20%E2%98%85%20%E2%98%85%20%E2%98%85%20%E2%98%85-green)
+![c++](https://img.shields.io/badge/C%2B%2B-%E2%98%85%20%E2%98%85%20%E2%98%85%20%E2%98%85%20%E2%98%85-green)
 ![java](https://img.shields.io/badge/Java-%E2%98%85%20%E2%98%85%20%E2%98%85%20%E2%98%86%20%E2%98%86-yellow)
 
+Frequent Repos :
 
-- 🔭 I’m currently working on [PotHole Detection](https://github.com/Mahanth-Maha/PHD_FYP)
+* [MyPython](https://github.com/Mahanth-Maha/My_Python)
 
-- 👀 I’m interested in developing Artificial Inteligence Systems, Internet Of Things and Cyber Security 
-
-- 🌱 I’m currently learning **Machine Learning, Internet Of Things**
-
-- 📚 I'm pursuing Bachelors in Computer Science
-
-- 📫 How to reach me **[MailMe](mailto:mahanth@duck.com) / [LinkedIn](https://www.linkedin.com/in/mahanth-maha/)**
+* [MyCpp](https://github.com/Mahanth-Maha/My_CPP)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,7 +34,8 @@
 
 </br>
  
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahanth-maha&show_icons=true&locale=en" alt="mahanth-maha" /> </p>
-</br>
-<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahanth-maha&" alt="mahanth-maha" /></p> -->
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahanth-maha&show_icons=true&locale=en" alt="mahanth-maha" /> </p> -->
+
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahanth-maha&" alt="mahanth-maha" /></p> 
 
